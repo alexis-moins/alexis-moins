@@ -12,7 +12,9 @@ This is the place were I store my projects, finished or not...
 ### 📦&nbsp;About Me
 ---
 
-I am a Computer Science student with robust problem-solving skills who demonstrates a strong work ethic and a liking for algorithmic and functional programming. After discovering neural networks in python two years ago, I now intend to specialize in AI and machine learning. I am willing to contribute to meaningful projects.
+I am a Computer Science student with robust problem-solving skills who demonstrates a strong work ethic and a liking for algorithmic and functional programming.
+- I specialise in full-stack development with technologies such as Vue, React, TailwindCSS, HTMX, ExpressJS, NestJS, ElysiaJS... 
+- After discovering neural networks in python two years ago, I now intend to learn more about AI and machine learning.
 
 ### 🧰&nbsp;Languages I use
 ---
