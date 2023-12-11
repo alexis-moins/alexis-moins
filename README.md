@@ -1,15 +1,22 @@
-<h2 align="left">📖 Hello</h2>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+---
+This is the place were I store my projects, finished or not...
 
-###
+- 🌱&nbsp;I’m currently learning Go
+- 🌱&nbsp;I'm learning Japanese and Swedish
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexis-moins&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis-moins&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexis-moins&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
-###
+### 📦&nbsp;About Me
+---
 
-<div align="center">
+I am a Computer Science student with robust problem-solving skills who demonstrates a strong work ethic and a liking for algorithmic and functional programming. After discovering neural networks in python two years ago, I now intend to specialize in AI and machine learning. I am willing to contribute to meaningful projects.
+
+### 🧰&nbsp;Languages I use
+---
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -28,16 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<p align="left">I'm Alexis, a Computer Science student from France</p>
-
-###
